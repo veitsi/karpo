@@ -1,7 +1,8 @@
 /*================================Contact=====================*/
 
 .contact .bar_above_contacts {
-    background: #fafaef;
+/*    background: #fafaef; */
+	background: red;
     height: 40px;
 }
 
